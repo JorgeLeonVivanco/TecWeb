@@ -1,2 +1,0 @@
-# TecWeb
-Practica 1
